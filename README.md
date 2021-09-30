@@ -3,4 +3,6 @@
  
  # How to use it.
  
- cat lista_urls.txt | python3 qrpdf.py
+```
+cat lista_urls.txt | python3 qrpdf.py
+```
