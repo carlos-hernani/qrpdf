@@ -1,0 +1,7 @@
+arxiv==1.4.2
+feedparser==6.0.8
+Pillow==8.3.2
+PyMuPDF==1.18.19
+qrcode==7.3.1
+sgmllib3k==1.0.0
+termcolor==1.1.0
